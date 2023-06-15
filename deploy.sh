@@ -1,2 +1,5 @@
 Deployment
 Development
+Generate
+Transfer
+Warehouse
